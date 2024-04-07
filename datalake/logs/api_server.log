@@ -1,0 +1,45 @@
+2024-04-06 07:35:59,521:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:35:59,523:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:35:59,525:INFO: * Restarting with stat
+2024-04-06 07:36:01,478:WARNING: * Debugger is active!
+2024-04-06 07:36:01,534:INFO: * Debugger PIN: 636-183-824
+2024-04-06 07:36:26,145:INFO:127.0.0.1 - - [06/Apr/2024 07:36:26] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:36:26,349:INFO:127.0.0.1 - - [06/Apr/2024 07:36:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:36:37,153:INFO:127.0.0.1 - - [06/Apr/2024 07:36:37] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:36:37,312:INFO:127.0.0.1 - - [06/Apr/2024 07:36:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:36:42,802:INFO:127.0.0.1 - - [06/Apr/2024 07:36:42] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:40:36,184:INFO:127.0.0.1 - - [06/Apr/2024 07:40:36] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:53:56,420:INFO: * Detected change in 'C:\\Users\\htoca\\Documents\\Amador Calle\\Maestría\\2024-1S\\Productos de datos\\Taller 1\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:53:56,614:INFO: * Restarting with stat
+2024-04-06 07:53:58,838:WARNING: * Debugger is active!
+2024-04-06 07:53:58,844:INFO: * Debugger PIN: 636-183-824
+2024-04-06 07:56:14,089:INFO: * Detected change in 'C:\\Users\\htoca\\Documents\\Amador Calle\\Maestría\\2024-1S\\Productos de datos\\Taller 1\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:56:14,233:INFO: * Restarting with stat
+2024-04-06 07:56:15,511:WARNING: * Debugger is active!
+2024-04-06 07:56:15,514:INFO: * Debugger PIN: 636-183-824
+2024-04-06 07:58:22,092:INFO:127.0.0.1 - - [06/Apr/2024 07:58:22] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:18,899:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:24,848:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:01:24,848:INFO:127.0.0.1 - - [06/Apr/2024 08:01:24] "POST / HTTP/1.1" 200 -
+2024-04-06 08:01:36,427:INFO: * Detected change in 'C:\\Users\\htoca\\Documents\\Amador Calle\\Maestría\\2024-1S\\Productos de datos\\Taller 1\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:01:36,732:INFO: * Restarting with stat
+2024-04-06 08:01:38,344:WARNING: * Debugger is active!
+2024-04-06 08:01:38,347:INFO: * Debugger PIN: 636-183-824
+2024-04-06 08:02:24,281:INFO:127.0.0.1 - - [06/Apr/2024 08:02:24] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 08:21:13,715:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:21:15,516:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:21:15,516:INFO:127.0.0.1 - - [06/Apr/2024 08:21:15] "POST / HTTP/1.1" 200 -
+2024-04-06 09:22:34,489:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:22:34,489:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:22:34,491:INFO: * Restarting with stat
+2024-04-06 09:22:36,050:WARNING: * Debugger is active!
+2024-04-06 09:22:36,055:INFO: * Debugger PIN: 636-183-824
+2024-04-06 09:22:45,674:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:22:46,881:INFO:Prediction: [196200.65530579]
+2024-04-06 09:22:46,882:INFO:127.0.0.1 - - [06/Apr/2024 09:22:46] "POST / HTTP/1.1" 200 -
+2024-04-06 09:26:37,847:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [2], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:26:37,850:INFO:Prediction: [136283.21018867]
+2024-04-06 09:26:37,850:INFO:127.0.0.1 - - [06/Apr/2024 09:26:37] "POST / HTTP/1.1" 200 -
+2024-04-06 09:26:55,756:INFO:127.0.0.1 - - [06/Apr/2024 09:26:55] "[31m[1mGET / HTTP/1.1[0m" 405 -

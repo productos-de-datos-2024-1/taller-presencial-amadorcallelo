@@ -1,0 +1,21 @@
+2024-04-06 16:58:26,521:INFO:Starting API server
+2024-04-06 16:58:26,550:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2024-04-06 16:58:26,551:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:58:26,554:INFO: * Restarting with stat
+2024-04-06 16:58:29,050:INFO:Starting API server
+2024-04-06 16:58:29,082:WARNING: * Debugger is active!
+2024-04-06 16:58:29,099:INFO: * Debugger PIN: 114-011-924
+2024-04-06 16:59:22,287:INFO:172.19.0.1 - - [06/Apr/2024 16:59:22] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 16:59:30,358:INFO:----------------------------------------
+2024-04-06 16:59:30,359:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [2], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:59:32,457:INFO:----------------------------------------
+2024-04-06 16:59:32,467:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [2], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:59:33,223:INFO:Prediction: [136283.21018867]
+2024-04-06 16:59:33,228:INFO:Prediction: [136283.21018867]
+2024-04-06 16:59:33,230:INFO:172.19.0.3 - - [06/Apr/2024 16:59:33] "POST / HTTP/1.1" 200 -
+2024-04-06 16:59:33,231:INFO:172.19.0.3 - - [06/Apr/2024 16:59:33] "POST / HTTP/1.1" 200 -
+2024-04-06 17:26:43,591:INFO:Finishing API server
+2024-04-06 17:26:43,991:INFO:Finishing API server
